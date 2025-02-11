@@ -21,8 +21,5 @@
 - **Software:** VS Code, PyCharm, Unity, IntelliJ, Eclipse  
 - **Libraries:** NumPy, Matplotlib, Cobra-CLI, Viper  
 
-### 📈 GitHub Stats  
-![Charvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charvisethi&show_icons=true&theme=radical)  
-
 ---
 ✨ _Passionate about building scalable and impactful applications!_  
